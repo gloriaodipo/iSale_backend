@@ -6,7 +6,7 @@ iSale is an E-commerce platform that enables buyers to buy goods online and make
 
 * Ruby version
 
-- This web application is written with Ruby using the Ruby on Rails framework and a PostgreSQL database. You need Ruby version 2.5.3 for the application to work
+This web application is written with Ruby using the Ruby on Rails framework and a PostgreSQL database. You need Ruby version 2.5.3 for the application to work
 
 * Installation
 
