@@ -1,6 +1,6 @@
 # iSale_backend
 
-[![Build Status](https://travis-ci.com/gloriaodipo/iSale_backend.svg?branch=develop)](https://travis-ci.com/gloriaodipo/iSale_backend) [![Test Coverage](https://api.codeclimate.com/v1/badges/7e85354090004ea66c77/test_coverage)](https://codeclimate.com/github/gloriaodipo/iSale_backend/test_coverage) [![Maintainability](https://api.codeclimate.com/v1/badges/7e85354090004ea66c77/maintainability)](https://codeclimate.com/github/gloriaodipo/iSale_backend/maintainability)
+[![CircleCI](https://circleci.com/gh/gloriaodipo/iSale_backend.svg?style=svg)](https://circleci.com/gh/gloriaodipo/iSale_backend)  [![Maintainability](https://api.codeclimate.com/v1/badges/7e85354090004ea66c77/maintainability)](https://codeclimate.com/github/gloriaodipo/iSale_backend/maintainability)  [![Test Coverage](https://api.codeclimate.com/v1/badges/7e85354090004ea66c77/test_coverage)](https://codeclimate.com/github/gloriaodipo/iSale_backend/test_coverage)
 
 iSale is an E-commerce platform that enables buyers to buy goods online and make payment using MPESA. This repository only has it’s API.
 
